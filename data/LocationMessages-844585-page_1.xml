@@ -1,0 +1,410 @@
+<LocationMessages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://standards.iso.org/iso/15143/-3">
+    <Links>
+        <rel>self</rel>
+        <href>https://tele15143.tigercat.com/TigercatISO15143API/Fleet/Equipment/ID/844585/Locations/2025-10-10T03%3A00%3A01Z/2025-10-11T02%3A59%3A00Z/1</href>
+    </Links>
+    <Links>
+        <rel>next</rel>
+        <href>https://tele15143.tigercat.com/TigercatISO15143API/Fleet/Equipment/ID/844585/Locations/2025-10-10T03%3A00%3A01Z/2025-10-11T02%3A59%3A00Z/2</href>
+    </Links>
+    <Location datetime="2025-10-10T00:27:45Z">
+        <Latitude>-38.378367</Latitude>
+        <Longitude>-73.211133</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T00:32:50Z">
+        <Latitude>-38.37835</Latitude>
+        <Longitude>-73.211117</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T00:37:52Z">
+        <Latitude>-38.3789</Latitude>
+        <Longitude>-73.2109</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T00:42:53Z">
+        <Latitude>-38.3779</Latitude>
+        <Longitude>-73.211017</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T00:48:00Z">
+        <Latitude>-38.37805</Latitude>
+        <Longitude>-73.2109</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T00:53:04Z">
+        <Latitude>-38.378083</Latitude>
+        <Longitude>-73.211067</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T00:58:06Z">
+        <Latitude>-38.378917</Latitude>
+        <Longitude>-73.211067</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:03:11Z">
+        <Latitude>-38.377967</Latitude>
+        <Longitude>-73.211</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:08:11Z">
+        <Latitude>-38.378783</Latitude>
+        <Longitude>-73.211167</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:13:11Z">
+        <Latitude>-38.377967</Latitude>
+        <Longitude>-73.210983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:18:22Z">
+        <Latitude>-38.37885</Latitude>
+        <Longitude>-73.211183</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:23:44Z">
+        <Latitude>-38.377833</Latitude>
+        <Longitude>-73.21085</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:28:51Z">
+        <Latitude>-38.378933</Latitude>
+        <Longitude>-73.211183</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:33:52Z">
+        <Latitude>-38.378367</Latitude>
+        <Longitude>-73.211117</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:38:53Z">
+        <Latitude>-38.37785</Latitude>
+        <Longitude>-73.21085</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:43:54Z">
+        <Latitude>-38.3788</Latitude>
+        <Longitude>-73.211167</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:48:55Z">
+        <Latitude>-38.3779</Latitude>
+        <Longitude>-73.210817</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:54:08Z">
+        <Latitude>-38.377933</Latitude>
+        <Longitude>-73.210933</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T01:59:08Z">
+        <Latitude>-38.37815</Latitude>
+        <Longitude>-73.210983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:04:28Z">
+        <Latitude>-38.378883</Latitude>
+        <Longitude>-73.211333</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:10:02Z">
+        <Latitude>-38.378067</Latitude>
+        <Longitude>-73.211117</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:15:03Z">
+        <Latitude>-38.3786</Latitude>
+        <Longitude>-73.21115</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:20:04Z">
+        <Latitude>-38.378067</Latitude>
+        <Longitude>-73.210833</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:27:41Z">
+        <Latitude>-38.37855</Latitude>
+        <Longitude>-73.211117</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:33:38Z">
+        <Latitude>-38.378817</Latitude>
+        <Longitude>-73.211067</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:38:38Z">
+        <Latitude>-38.378367</Latitude>
+        <Longitude>-73.211083</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:43:42Z">
+        <Latitude>-38.37885</Latitude>
+        <Longitude>-73.211467</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:48:46Z">
+        <Latitude>-38.378633</Latitude>
+        <Longitude>-73.211183</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:53:46Z">
+        <Latitude>-38.378067</Latitude>
+        <Longitude>-73.21095</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T02:58:53Z">
+        <Latitude>-38.3789</Latitude>
+        <Longitude>-73.211483</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:03:59Z">
+        <Latitude>-38.378</Latitude>
+        <Longitude>-73.211</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:09:49Z">
+        <Latitude>-38.378083</Latitude>
+        <Longitude>-73.211033</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:16:29Z">
+        <Latitude>-38.378283</Latitude>
+        <Longitude>-73.21125</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:21:46Z">
+        <Latitude>-38.37875</Latitude>
+        <Longitude>-73.211217</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:27:10Z">
+        <Latitude>-38.378133</Latitude>
+        <Longitude>-73.211033</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:32:16Z">
+        <Latitude>-38.378967</Latitude>
+        <Longitude>-73.211983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:37:19Z">
+        <Latitude>-38.378967</Latitude>
+        <Longitude>-73.211983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:42:22Z">
+        <Latitude>-38.3792</Latitude>
+        <Longitude>-73.211983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:47:24Z">
+        <Latitude>-38.3789</Latitude>
+        <Longitude>-73.211983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:52:26Z">
+        <Latitude>-38.378733</Latitude>
+        <Longitude>-73.2119</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T03:57:28Z">
+        <Latitude>-38.379117</Latitude>
+        <Longitude>-73.2112</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:02:34Z">
+        <Latitude>-38.37895</Latitude>
+        <Longitude>-73.211967</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:07:34Z">
+        <Latitude>-38.378933</Latitude>
+        <Longitude>-73.212083</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:12:34Z">
+        <Latitude>-38.379</Latitude>
+        <Longitude>-73.211967</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:17:35Z">
+        <Latitude>-38.37895</Latitude>
+        <Longitude>-73.211317</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:22:37Z">
+        <Latitude>-38.3791</Latitude>
+        <Longitude>-73.21205</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:32:09Z">
+        <Latitude>-38.378967</Latitude>
+        <Longitude>-73.212017</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:37:11Z">
+        <Latitude>-38.3787</Latitude>
+        <Longitude>-73.211533</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:42:32Z">
+        <Latitude>-38.3791</Latitude>
+        <Longitude>-73.212083</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:47:32Z">
+        <Latitude>-38.378667</Latitude>
+        <Longitude>-73.211617</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:52:33Z">
+        <Latitude>-38.378683</Latitude>
+        <Longitude>-73.21165</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T04:57:34Z">
+        <Latitude>-38.378817</Latitude>
+        <Longitude>-73.212</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:02:50Z">
+        <Latitude>-38.378967</Latitude>
+        <Longitude>-73.211983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:07:57Z">
+        <Latitude>-38.379017</Latitude>
+        <Longitude>-73.210883</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:13:15Z">
+        <Latitude>-38.378933</Latitude>
+        <Longitude>-73.212033</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:18:16Z">
+        <Latitude>-38.378683</Latitude>
+        <Longitude>-73.211517</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:23:22Z">
+        <Latitude>-38.379117</Latitude>
+        <Longitude>-73.21205</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:28:25Z">
+        <Latitude>-38.378767</Latitude>
+        <Longitude>-73.212</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:33:29Z">
+        <Latitude>-38.378933</Latitude>
+        <Longitude>-73.210983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:38:47Z">
+        <Latitude>-38.37895</Latitude>
+        <Longitude>-73.2119</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:43:49Z">
+        <Latitude>-38.379067</Latitude>
+        <Longitude>-73.211967</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:48:51Z">
+        <Latitude>-38.378633</Latitude>
+        <Longitude>-73.211483</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:53:57Z">
+        <Latitude>-38.378883</Latitude>
+        <Longitude>-73.21105</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T05:59:49Z">
+        <Latitude>-38.3787</Latitude>
+        <Longitude>-73.211733</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:05:07Z">
+        <Latitude>-38.379033</Latitude>
+        <Longitude>-73.212033</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:10:09Z">
+        <Latitude>-38.3791</Latitude>
+        <Longitude>-73.212033</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:15:50Z">
+        <Latitude>-38.378783</Latitude>
+        <Longitude>-73.211933</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:21:04Z">
+        <Latitude>-38.378983</Latitude>
+        <Longitude>-73.21195</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:26:04Z">
+        <Latitude>-38.378917</Latitude>
+        <Longitude>-73.212083</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:31:11Z">
+        <Latitude>-38.379167</Latitude>
+        <Longitude>-73.210933</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:36:16Z">
+        <Latitude>-38.378733</Latitude>
+        <Longitude>-73.211233</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:41:18Z">
+        <Latitude>-38.378633</Latitude>
+        <Longitude>-73.211367</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:46:22Z">
+        <Latitude>-38.37895</Latitude>
+        <Longitude>-73.211417</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:51:23Z">
+        <Latitude>-38.378883</Latitude>
+        <Longitude>-73.21085</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T06:56:55Z">
+        <Latitude>-38.37925</Latitude>
+        <Longitude>-73.21105</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:02:00Z">
+        <Latitude>-38.3791</Latitude>
+        <Longitude>-73.212117</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:11:57Z">
+        <Latitude>-38.3793</Latitude>
+        <Longitude>-73.21085</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:17:00Z">
+        <Latitude>-38.3788</Latitude>
+        <Longitude>-73.211817</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:22:06Z">
+        <Latitude>-38.378917</Latitude>
+        <Longitude>-73.212</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:27:20Z">
+        <Latitude>-38.378967</Latitude>
+        <Longitude>-73.211283</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:43:04Z">
+        <Latitude>-38.379067</Latitude>
+        <Longitude>-73.211083</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:48:09Z">
+        <Latitude>-38.37905</Latitude>
+        <Longitude>-73.211233</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T07:48:09Z">
+        <Latitude>-38.37905</Latitude>
+        <Longitude>-73.211233</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T11:54:13Z">
+        <Latitude>-38.378817</Latitude>
+        <Longitude>-73.2111</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T13:39:18Z">
+        <Latitude>-38.378017</Latitude>
+        <Longitude>-73.213467</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T13:45:31Z">
+        <Latitude>-38.378867</Latitude>
+        <Longitude>-73.211917</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T13:50:58Z">
+        <Latitude>-38.379533</Latitude>
+        <Longitude>-73.21185</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T13:57:07Z">
+        <Latitude>-38.380683</Latitude>
+        <Longitude>-73.211817</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T14:22:26Z">
+        <Latitude>-38.380783</Latitude>
+        <Longitude>-73.21175</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T14:24:45Z">
+        <Latitude>-38.380917</Latitude>
+        <Longitude>-73.211667</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T14:54:01Z">
+        <Latitude>-38.380933</Latitude>
+        <Longitude>-73.21165</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T14:59:34Z">
+        <Latitude>-38.378767</Latitude>
+        <Longitude>-73.211917</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:04:35Z">
+        <Latitude>-38.378667</Latitude>
+        <Longitude>-73.21175</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:09:44Z">
+        <Latitude>-38.379333</Latitude>
+        <Longitude>-73.2108</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:14:44Z">
+        <Latitude>-38.3792</Latitude>
+        <Longitude>-73.211083</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:19:44Z">
+        <Latitude>-38.378667</Latitude>
+        <Longitude>-73.211467</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:24:47Z">
+        <Latitude>-38.378783</Latitude>
+        <Longitude>-73.211333</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:29:54Z">
+        <Latitude>-38.3789</Latitude>
+        <Longitude>-73.212</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:35:11Z">
+        <Latitude>-38.378917</Latitude>
+        <Longitude>-73.212067</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:40:12Z">
+        <Latitude>-38.378683</Latitude>
+        <Longitude>-73.211267</Longitude>
+    </Location>
+</LocationMessages>

@@ -1,0 +1,86 @@
+<EngineStatusMessages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://standards.iso.org/iso/15143/-3">
+    <Links>
+        <rel>self</rel>
+        <href>https://tele15143.tigercat.com/TigercatISO15143API/Fleet/Equipment/ID/844585/EngineCondition/2025-10-10T03%3A00%3A01Z/2025-10-11T02%3A59%3A00Z/1</href>
+    </Links>
+    <EngineStatus datetime="2025-10-10T00:27:48Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T00:27:50Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T00:55:50Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T02:28:38Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T02:52:15Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T04:27:09Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T05:35:35Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T07:06:57Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T07:48:10Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T11:53:49Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T11:58:44Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T13:39:20Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T13:57:09Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T14:12:28Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T14:22:28Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T14:23:28Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T14:24:47Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T14:25:17Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T14:54:03Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>true</Running>
+    </EngineStatus>
+    <EngineStatus datetime="2025-10-10T17:04:49Z">
+        <EngineNumber>N/A</EngineNumber>
+        <Running>false</Running>
+    </EngineStatus>
+</EngineStatusMessages>

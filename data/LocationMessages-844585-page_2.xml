@@ -1,0 +1,74 @@
+<LocationMessages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://standards.iso.org/iso/15143/-3">
+    <Links>
+        <rel>prev</rel>
+        <href>https://tele15143.tigercat.com/TigercatISO15143API/Fleet/Equipment/ID/844585/Locations/2025-10-10T03%3A00%3A01Z/2025-10-11T02%3A59%3A00Z/1</href>
+    </Links>
+    <Links>
+        <rel>self</rel>
+        <href>https://tele15143.tigercat.com/TigercatISO15143API/Fleet/Equipment/ID/844585/Locations/2025-10-10T03%3A00%3A01Z/2025-10-11T02%3A59%3A00Z/2</href>
+    </Links>
+    <Location datetime="2025-10-10T15:45:15Z">
+        <Latitude>-38.3794</Latitude>
+        <Longitude>-73.211</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:50:23Z">
+        <Latitude>-38.379233</Latitude>
+        <Longitude>-73.211117</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T15:55:38Z">
+        <Latitude>-38.378817</Latitude>
+        <Longitude>-73.21195</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:01:26Z">
+        <Latitude>-38.379267</Latitude>
+        <Longitude>-73.2111</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:06:49Z">
+        <Latitude>-38.3793</Latitude>
+        <Longitude>-73.21115</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:11:49Z">
+        <Latitude>-38.3787</Latitude>
+        <Longitude>-73.2115</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:16:51Z">
+        <Latitude>-38.378767</Latitude>
+        <Longitude>-73.21185</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:21:51Z">
+        <Latitude>-38.378967</Latitude>
+        <Longitude>-73.212017</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:26:51Z">
+        <Latitude>-38.378917</Latitude>
+        <Longitude>-73.211967</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:31:52Z">
+        <Latitude>-38.379167</Latitude>
+        <Longitude>-73.211167</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:36:59Z">
+        <Latitude>-38.37885</Latitude>
+        <Longitude>-73.211167</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:42:01Z">
+        <Latitude>-38.37905</Latitude>
+        <Longitude>-73.211217</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:47:06Z">
+        <Latitude>-38.378817</Latitude>
+        <Longitude>-73.211983</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:52:13Z">
+        <Latitude>-38.3787</Latitude>
+        <Longitude>-73.2112</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T16:57:13Z">
+        <Latitude>-38.378717</Latitude>
+        <Longitude>-73.211833</Longitude>
+    </Location>
+    <Location datetime="2025-10-10T17:02:45Z">
+        <Latitude>-38.378833</Latitude>
+        <Longitude>-73.210967</Longitude>
+    </Location>
+</LocationMessages>
