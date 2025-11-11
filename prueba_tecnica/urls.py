@@ -19,17 +19,15 @@ from django.urls import path
 from ninja import NinjaAPI
 from server.api import router as safeguard_router
 
-# 🧩 Crear la API principal
 api = NinjaAPI(
     title="Informes de Resguardo API",
     description="Microservicio para generar informes de resguardo de maquinaria forestal.",
     version="1.0.0",
 )
 
-# 🔗 Agregar el router de la app
 api.add_router("/", safeguard_router)
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("api/", api.urls),  # ✅ Ruta principal para los endpoints
+    path("api/", api.urls),
 ]
